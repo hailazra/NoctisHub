@@ -5,7 +5,7 @@
 > Built with love for stability, UX, and modularity.
 
 <p align="center">
-  <img alt="NoctisHub" src="https://user-images.githubusercontent.com/placeholder/noctis-logo.png" width="140" />
+  <img alt="NoctisHub" src="https://github.com/hailazra/devlogic/blob/main/logo.webp" width="140" />
 </p>
 
 <p align="center">
