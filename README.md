@@ -80,23 +80,23 @@
 
 This repo ships the **loader only**.
 
-**Option A — Domain URL (recommended)**
+**Option A (recommended)**
 
 ```lua
--- Noctis Hub Loader (domain)
-loadstring(game:HttpGet("https://YOUR-DOMAIN/Loader.lua"))()
+-- Noctis Hub Loader
+loadstring(game:HttpGet("https://noctis-hub.vercel.app/Loader.lua"))()
 ```
 
-**Option B — GitHub Raw (fallback)**
+**Option B (fallback)**
 
 ```lua
--- Replace with your actual GitHub raw URL
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/noctishub/main/Loader.lua"))()
+-- Noctis Hub Loader
+loadstring(game:HttpGet("https://hailazra.github.io/NoctisHub/Loader.lua"))()
 ```
 
 **Requirements**
 
-* A modern executor with good compatibility (e.g., Delta, Ronix, Zenith, etc.)
+* A good executor with high sUNC (e.g., Delta, Ronix, Zenith, etc.)
 * Stable network connection (some features use HTTP requests)
 
 **First Run**
@@ -114,7 +114,7 @@ Found a bug or have a suggestion? **Join our Discord** — we handle reports and
 * Status updates, bug reports, and feature ideas are centralized in Discord.
 * This repository is **loader-only**.
 
-**Join:** [https://discord.gg/YOUR\_INVITE](https://discord.gg/3AzvRJFT3M)
+**Join:** [NoctisHub Discord Server](https://discord.gg/3AzvRJFT3M)
 
 ---
 
