@@ -1,35 +1,123 @@
-NOCTIS HUB KEYLESS ROBLOX SCRIPT
+# NOCTIS HUB — Keyless Roblox Script
 
-Supported Games 
-Fish It
+> **Fast, clean, and keyless** automation hub focused on **Fish It**.
+>
+> Built with love for stability, UX, and modularity.
 
-Script Features
-Fish It :
-[+] Added Auto Fishing
-[+] Added Auto Sell Fish
-[+] Added Auto Favorite Fish
-[+] Added Auto Buy Baits
-[+] Added Auto Buy Rods
-[+] Added Auto Buy Weather
-[+] Added Auto Enchant
-[+] Added Teleport to Event
-[+] Added Teleport to Island
-[+] Added Teleport to Player
-[+] Added Cancel Fishing
-[+] Added Enable Diving Gear
-[+] Added Enable Fish Radar
-[+] Added Anti AFK
-[+] Added Boost FPS
-[+] Added Webhook
-[+] Added Auto Send Trade
-[+] Added Auto Accept Trade
-[+] Added Player Stats
-[+] Added Save Position
-[+] Added Add Position
-[+] Added Delete Position
-[+] Added Refresh Position
-[+] Added Teleport To Position
-[+] Added Copy JobId
-[+] Added Join Server (JobId)
-[+] Added Auto Reconnect
-[+] Added Auto Re-Execute on Reconnect
+<p align="center">
+  <img alt="NoctisHub" src="https://user-images.githubusercontent.com/placeholder/noctis-logo.png" width="140" />
+</p>
+
+<p align="center">
+  <a href="#supported-games"><img alt="Games" src="https://img.shields.io/badge/Supported-Fish%20It-1f6feb" /></a>
+  <a href="#quick-start"><img alt="Keyless" src="https://img.shields.io/badge/Key-System%3A%20None-10b981" /></a>
+  <a href="https://discord.gg/YOUR_INVITE"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2" /></a>
+</p>
+
+---
+
+## Table of Contents
+
+* [About](#about)
+* [Supported Games](#supported-games)
+* [Features](#features)
+* [Quick Start](#quick-start)
+* [Support & Feedback](#support--feedback)
+* [Disclaimer](#disclaimer)
+
+---
+
+## About
+
+**Noctis Hub** is a **keyless** Roblox script hub for **Fish It**. This repository contains the **loader** only.
+
+---
+
+## Supported Games
+
+* **Fish It**
+
+> Need another game supported? **Join our Discord** and tell us what you need.
+
+---
+
+## Features
+
+**Fish It**
+
+* ✅ Auto Fishing
+* ✅ Auto Sell Fish
+* ✅ Auto Favorite Fish
+* ✅ Auto Buy Baits
+* ✅ Auto Buy Rods
+* ✅ Auto Buy Weather
+* ✅ Auto Enchant
+* ✅ Teleport to Event
+* ✅ Teleport to Island
+* ✅ Teleport to Player
+* ✅ Cancel Fishing
+* ✅ Enable Diving Gear
+* ✅ Enable Fish Radar
+* ✅ Anti AFK
+* ✅ Boost FPS (ultra-low preset)
+* ✅ Webhook (Discord embeds)
+* ✅ Auto Send Trade
+* ✅ Auto Accept Trade
+* ✅ Player Stats
+* ✅ Save Position
+* ✅ Add Position
+* ✅ Delete Position
+* ✅ Refresh Position
+* ✅ Teleport to Position
+* ✅ Copy JobId
+* ✅ Join Server (JobId)
+* ✅ Auto Reconnect
+* ✅ Auto Re‑Execute on Reconnect
+
+---
+
+## Quick Start
+
+This repo ships the **loader only**.
+
+**Option A — Domain URL (recommended)**
+
+```lua
+-- Noctis Hub Loader (domain)
+loadstring(game:HttpGet("https://YOUR-DOMAIN/Loader.lua"))()
+```
+
+**Option B — GitHub Raw (fallback)**
+
+```lua
+-- Replace with your actual GitHub raw URL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/noctishub/main/Loader.lua"))()
+```
+
+**Requirements**
+
+* A modern executor with good compatibility (e.g., Delta, Ronix, Zenith, etc.)
+* Stable network connection (some features use HTTP requests)
+
+**First Run**
+
+1. Execute the loader in **Fish It**.
+2. The Noctis icon/window appears.
+3. Toggle the features you need.
+
+---
+
+## Support & Feedback
+
+Found a bug or have a suggestion? **Join our Discord** — we handle reports and requests there.
+
+* Status updates, bug reports, and feature ideas are centralized in Discord.
+* This repository is **loader-only**.
+
+**Join:** [https://discord.gg/YOUR\_INVITE](https://discord.gg/3AzvRJFT3M)
+
+---
+
+## Disclaimer
+
+This project is provided for **educational purposes**. Use at your own risk. You are responsible for complying with Roblox Terms of Use and any applicable laws and game rules.
