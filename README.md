@@ -73,6 +73,7 @@
 * ✅ Join Server (JobId)
 * ✅ Auto Reconnect
 * ✅ Auto Re‑Execute on Reconnect
+* ✅ Inventory Information
 
 ---
 
