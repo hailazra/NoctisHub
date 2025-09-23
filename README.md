@@ -22,6 +22,7 @@
 * [Supported Games](#supported-games)
 * [Features](#features)
 * [Quick Start](#quick-start)
+* [Changelog](#changelog)
 * [Support & Feedback](#support--feedback)
 * [Disclaimer](#disclaimer)
 
@@ -72,7 +73,7 @@
 * ✅ Copy JobId
 * ✅ Join Server (JobId)
 * ✅ Auto Reconnect
-* ✅ Auto Re‑Execute on Reconnect
+* ✅ Auto Re-Execute on Reconnect
 * ✅ Inventory Information
 
 ---
@@ -87,38 +88,63 @@ This repo ships the **loader only**.
 -- Noctis Hub Loader
 loadstring(game:HttpGet("https://noctis-hub.vercel.app/Loader.lua"))()
 ```
-
-**Option B (fallback)**
+Option B (fallback)
 
 ```lua
 -- Noctis Hub Loader
 loadstring(game:HttpGet("https://hailazra.github.io/NoctisHub/Loader.lua"))()
 ```
+Requirements
 
-**Requirements**
+A good executor with high sUNC (e.g., Delta, Ronix, Zenith, etc.)
 
-* A good executor with high sUNC (e.g., Delta, Ronix, Zenith, etc.)
-* Stable network connection (some features use HTTP requests)
+Stable network connection (some features use HTTP requests)
 
-**First Run**
 
-1. Execute the loader in **Fish It**.
+First Run
+
+1. Execute the loader in Fish It.
+
+
 2. The Noctis icon/window appears.
+
+
 3. Toggle the features you need.
 
----
 
-## Support & Feedback
 
-Found a bug or have a suggestion? **Join our Discord** — we handle reports and requests there.
-
-* Status updates, bug reports, and feature ideas are centralized in Discord.
-* This repository is **loader-only**.
-
-**Join:** [NoctisHub Discord Server](https://discord.gg/3AzvRJFT3M)
 
 ---
 
-## Disclaimer
+Changelog
 
-This project is provided for **educational purposes**. Use at your own risk. You are responsible for complying with Roblox Terms of Use and any applicable laws and game rules.
+Fish It v0.1.0
+```lua
+[+] Added Rod Price Info
+[+] Added Bait Price Info
+[+] Added Auto Send Trade Enchant
+[/] Fixed Auto Enchant
+```
+
+
+---
+
+Support & Feedback
+
+Found a bug or have a suggestion? Join our Discord — we handle reports and requests there.
+
+Status updates, bug reports, and feature ideas are centralized in Discord.
+
+This repository is loader-only.
+
+
+Join: NoctisHub Discord Server
+
+
+---
+
+Disclaimer
+
+This project is provided for educational purposes. Use at your own risk. You are responsible for complying with Roblox Terms of Use and any applicable laws and game rules.
+
+---
