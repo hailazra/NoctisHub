@@ -118,12 +118,11 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.0
+Fish It v0.1.1
 ```lua
-[+] Added Rod Price Info
-[+] Added Bait Price Info
-[+] Added Auto Send Trade Enchant
-[/] Fixed Auto Enchant
+[+] Added Boost FPS
+[/] Fixed Auto Teleport Event
+[-] Disabled Webhook, will be back soon
 ```
 
 
