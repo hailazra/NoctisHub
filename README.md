@@ -116,7 +116,7 @@ First Run
 
 ---
 
-Changelog
+## Changelog
 
 Fish It v0.1.0
 ```lua
@@ -129,7 +129,7 @@ Fish It v0.1.0
 
 ---
 
-Support & Feedback
+## Support & Feedback
 
 Found a bug or have a suggestion? Join our Discord — we handle reports and requests there.
 
@@ -143,7 +143,7 @@ Join: NoctisHub Discord Server
 
 ---
 
-Disclaimer
+## Disclaimer
 
 This project is provided for educational purposes. Use at your own risk. You are responsible for complying with Roblox Terms of Use and any applicable laws and game rules.
 
