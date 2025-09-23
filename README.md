@@ -75,6 +75,7 @@
 * ✅ Auto Reconnect
 * ✅ Auto Re-Execute on Reconnect
 * ✅ Inventory Information
+* ✅ Player ESP
 
 ---
 
@@ -118,11 +119,9 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.1
+Fish It v0.1.2
 ```lua
-[+] Added Boost FPS
-[/] Fixed Auto Teleport Event
-[-] Disabled Webhook, will be back soon
+[+] Added Player ESP
 ```
 
 
