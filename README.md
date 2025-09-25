@@ -119,9 +119,11 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.2
+Fish It v0.1.3
 ```lua
-[+] Added Player ESP
+[/] Improved Auto Enchant
+[/] Fixed Auto Teleport Event
+[/] Fixed Webhook
 ```
 
 
