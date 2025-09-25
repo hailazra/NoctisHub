@@ -99,8 +99,6 @@ Requirements
 
 A good executor with high sUNC (e.g., Delta, Ronix, Zenith, etc.)
 
-Stable network connection (some features use HTTP requests)
-
 
 First Run
 
