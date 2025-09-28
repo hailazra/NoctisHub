@@ -117,12 +117,16 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.4
+Fish It v0.1.5
 ```lua
-[+] Added Auto Farm Enchant
+[+] Added Auto Mythic
+[/] Moved Auto Farm Enchant & Auto Mythic to Vuln Group Box.
+
+Note :
+Equip any rod (prefer good rod) first, it will automatically switch to Starter Rod when streak 3x Rare (Cancel) and it will automatically switch again to ur first rod after catch Mythic.
 
 How it works?
-It will automatically teleport to Enchant Altar, Equip Starter Rod + Midnight Bait, Fishing and Cancel Fishing for Uncommon/Rare. All full auto.
+It will automatically teleport to Crater Island, Fishing, Cancel Fishing for Rare/Legendary, Switch to Starter Rod and wait to catch Mythic. All full auto.
 ```
 
 
