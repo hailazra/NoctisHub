@@ -119,9 +119,10 @@ First Run
 
 Fish It v0.1.3
 ```lua
-[/] Improved Auto Enchant
-[/] Fixed Auto Teleport Event
-[/] Fixed Webhook
+[+] Added Auto Farm Enchant
+
+How it works?
+It will automatically teleport to Enchant Altar, Equip Starter Rod + Midnight Bait, Fishing and Cancel Fishing for Uncommon/Rare. All full auto.
 ```
 
 
