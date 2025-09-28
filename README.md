@@ -117,7 +117,7 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.3
+Fish It v0.1.4
 ```lua
 [+] Added Auto Farm Enchant
 
