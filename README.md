@@ -117,10 +117,9 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.5
+Fish It v0.1.7
 ```lua
-[-] Removed Auto Mythic (Patched)
-[-] Removed Auto Farm Enchant (Patched)
+[+] Added Auto Fix Fishing
 ```
 
 
