@@ -117,9 +117,10 @@ First Run
 
 ## Changelog
 
-Fish It v0.1.7
+Fish It v0.1.8
 ```lua
-[+] Added Auto Fix Fishing
+[+] Added Save GPU (Blank Screen)
+All the things still works properly even u use this feature, just to save ur GPU.
 ```
 
 
